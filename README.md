@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<img src="https://i.imgur.com/8FgiHKv.png" alt="profilebanner"></img>
+<p>Hello! My name is Saurabh and I enjoy creating things that live on the internet. My interest in web development started back in 2018 when I decided to run my own website on the internet — turns out hacking together a custom signup button taught me a lot about HTML & CSS!
 
+Fast-forward to today,I'm a Full Stack Web Developer adept at contributing to a highly collaborative work environment. Has a penchant for learning new technologies rapidly. Hands-on experience working with MERN stack. Enjoys building useful apps that solve day-to-day problems.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnimkande&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhnimkande" /> </p>
 
 
@@ -9,9 +10,9 @@
 
 - 🔭 I’m currently working on **Ajio.com Clone**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **React-Redux**
 
-- 💬 Ask me about **coding related things.**
+- 💬 Ask me about **DSA and Coding related things.**
 
 - 📫 How to reach me **saurabhnimkande@gmail.com**
 

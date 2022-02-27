@@ -11,9 +11,9 @@ Fast-forward to today,I'm an Aspiring Full Stack Web Developer adept at contribu
 
 
 
-- 🔭 I’m currently working on **Ajio.com Clone**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **DSA and Coding related things.**
 

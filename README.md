@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/JvswXyP.png" alt="profilebanner"></img>
+<img src="https://i.imgur.com/8FgiHKv.png" alt="profilebanner"></img>
 <p>Hello! My name is Saurabh and I enjoy creating things that live on the internet. My interest in web development started back in 2018 when I decided to run my own website on the internet — turns out hacking together a custom signup button taught me a lot about HTML & CSS!
 
-Fast-forward to today,I'm an Aspiring Full Stack Web Developer adept at contributing to a highly collaborative work environment. Has a penchant for learning new technologies rapidly. Hands-on experience working with MERN stack. Enjoys building useful apps that solve day-to-day problems.</p>
+Fast-forward to today, I'm Full Stack Web Developer adept at contributing to a highly collaborative work environment. Has a penchant for learning new technologies rapidly. Hands-on experience working with MERN stack. Enjoys building useful apps that solve day-to-day problems.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnimkande&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhnimkande" /> </p>
 
 
@@ -11,7 +11,7 @@ Fast-forward to today,I'm an Aspiring Full Stack Web Developer adept at contribu
 
 
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **deep-compare-advanced**
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -61,8 +61,6 @@ Fast-forward to today,I'm an Aspiring Full Stack Web Developer adept at contribu
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhnimkande&show_icons=true&locale=en" alt="saurabhnimkande" /></p>
-
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=saurabhnimkande&theme=react-dark&hide_border=true" alt="saurabhnimkande" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhnimkande&" alt="saurabhnimkande" /></p>

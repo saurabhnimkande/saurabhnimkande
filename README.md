@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/8FgiHKv.png" alt="profilebanner"></img>
 <p>Hello! My name is Saurabh and I enjoy creating things that live on the internet. My interest in web development started back in 2018 when I decided to run my own website on the internet — turns out hacking together a custom signup button taught me a lot about HTML & CSS!
 
-Fast-forward to today, I'm Full Stack Web Developer adept at contributing to a highly collaborative work environment. Has a penchant for learning new technologies rapidly. Hands-on experience working with MERN stack. Enjoys building useful apps that solve day-to-day problems.</p>
+Fast-forward to today, I’m a Full Stack Web Developer adept at contributing to a highly collaborative work environment, with a strong ability to learn new technologies rapidly. I have hands-on experience working with the MERN stack and enjoy building practical applications that solve everyday problems.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnimkande&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhnimkande" /> </p>
 
 
